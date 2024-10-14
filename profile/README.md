@@ -3,7 +3,7 @@
 # RxRadar -- [Live Site](https://rx-radar.com)
 a project by Owen Dolan ([@odolan](https://www.github.com/odolan)) & Simon Sandrew ([@Simon-Sandrew](https://github.com/Simon-Sandrew))
 
-![RxRadar Logo](placeholder-for-logo.png)
+![RxRadar Logo](../logo.png)
 
 RxRadar is an innovative solution designed to simplify the process of finding hard-to-access medications. By leveraging AI and automation, we streamline the search for available prescriptions, ensuring a hassle-free experience for patients.
 
@@ -29,16 +29,15 @@ RxRadar addresses the challenge of locating medications during shortages by:
 
 Our platform currently supports several commonly shortage-affected ADHD medications, including Adderall, Vyvanse, Focalin, Daytrana, and Ritalin.
 
-![RxRadar Interface](placeholder-for-interface-screenshot.png)
+![RxRadar Interface](../site-image.png)
 
 ## Features
 
-- 🗺️ Interactive map with labeled pharmacies
-- 🤖 AI-powered automated pharmacy communication
-- 🔒 Secure user authentication
+- 🗺️ Interactive map with visually labeled pharmacies
+- 🤖 AI-powered automated & scalable pharmacy calling service
 - 💳 Integrated payment processing
 - 🔍 Efficient search algorithm with caching
-- 📊 Real-time monitoring and analytics
+- 📊 Real-time developer monitoring and analytics
 
 ## Repositories
 
